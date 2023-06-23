@@ -1,0 +1,45 @@
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.exe
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.deps.json
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.runtimeconfig.json
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.dll
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.pdb
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfo.cs
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.dll
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\refint\BestesCasino.dll
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.pdb
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.genruntimeconfig.cache
+C:\Users\andre\OneDrive - BBBaden\Modul 426\LB_M426\bestes-casino\BestesCasino\obj\Debug\net6.0\ref\BestesCasino.dll
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.exe
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.deps.json
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.runtimeconfig.json
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.dll
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.pdb
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfo.cs
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.dll
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\refint\BestesCasino.dll
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.pdb
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.genruntimeconfig.cache
+C:\Users\David\Source\Repos\bestes-casino\BestesCasino\obj\Debug\net6.0\ref\BestesCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.AssemblyInfo.cs
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\refint\BestesCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.exe
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.deps.json
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.runtimeconfig.json
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.dll
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\bin\Debug\net6.0\BestesCasino.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\BestesCasino.genruntimeconfig.cache
+C:\Users\David\OneDrive\Dokumente\Unity\bestes-casino\BestesCasino\obj\Debug\net6.0\ref\BestesCasino.dll
