@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BetterThanLasVegas;
+using BestesCasino;
 
-namespace BetterThanLasVegas
+namespace BestesCasino
 {
     class Program
     {

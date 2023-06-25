@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BetterThanLasVegas
+namespace BestesCasino
 {
     class BalanceDisplay_SM : IObserver_SM
     {

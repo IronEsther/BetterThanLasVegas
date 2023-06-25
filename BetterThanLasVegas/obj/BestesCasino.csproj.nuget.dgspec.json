@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino\\BestesCasino.csproj": {}
+    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino\\BestesCasino.csproj": {
+    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino\\BestesCasino.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino.csproj",
         "projectName": "BestesCasino",
-        "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino\\BestesCasino.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BestesCasino\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
