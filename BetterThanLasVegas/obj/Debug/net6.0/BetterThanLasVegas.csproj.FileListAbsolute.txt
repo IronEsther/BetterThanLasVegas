@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.exe
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.deps.json
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\Be
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.pdb
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.genruntimeconfig.cache
 C:\Users\andre\OneDrive - BBBaden\Informatik Lernatelier\Lernatelier 2\LA1305\BetterThanLasVegas\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\ref\BetterThanLasVegas.dll
+=======
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.AssemblyInfo.cs
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.exe
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.deps.json
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.runtimeconfig.json
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.dll
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\bin\Debug\net6.0\BetterThanLasVegas.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.dll
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\refint\BetterThanLasVegas.dll
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.pdb
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\BetterThanLasVegas.genruntimeconfig.cache
+C:\Users\David\OneDrive\Dokumente\Unity\BetterThanLasVegas\BetterThanLasVegas\obj\Debug\net6.0\ref\BetterThanLasVegas.dll
+>>>>>>> Stashed changes

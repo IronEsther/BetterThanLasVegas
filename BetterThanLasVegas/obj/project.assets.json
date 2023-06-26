@@ -8,19 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\David\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
       "projectName": "BetterThanLasVegas",
       "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
+      "projectName": "BetterThanLasVegas",
+      "projectPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -29,7 +37,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {},
         "https://www.myget.org/F/discord-net/api/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

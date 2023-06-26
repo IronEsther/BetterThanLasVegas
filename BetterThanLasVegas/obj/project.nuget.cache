@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "XfnDg2IpmrFzQm4V3fLEtgB2xqZERihFWl3DzDspIsnKFDzqmlIJL/SJkkd8Ujk/500+iGqfhKbtLNY2bb1COQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
+=======
+  "dgSpecHash": "pl/itJNoM9SsB1W0C+VDTgj1BoDRWDuYCvQeaT5TiMFsNJgWiRJ/2oGlz/vIgf+T8BuG58AF33ZeZQ/Ct2iRdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
