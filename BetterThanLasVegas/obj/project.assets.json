@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
-      "projectName": "BetterThanLasVegas",
-      "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
       "projectName": "BetterThanLasVegas",
       "projectPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
->>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,5 +65,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem beim Lesen der Cachedatei \"C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\project.nuget.cache\": Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

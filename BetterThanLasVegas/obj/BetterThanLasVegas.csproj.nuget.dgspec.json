@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
-        "projectName": "BetterThanLasVegas",
-        "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Informatik Lernatelier\\Lernatelier 2\\LA1305\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
-=======
     "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\BetterThanLasVegas.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\David\\OneDrive\\Dokumente\\Unity\\BetterThanLasVegas\\BetterThanLasVegas\\obj\\",
->>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
